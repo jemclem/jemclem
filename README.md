@@ -1,5 +1,5 @@
 <h1 align="center">YO DOOD!, I'm Inkbrush</h1>
-![earthtalker](https://user-images.githubusercontent.com/101950684/226698658-8f96fff2-c0d0-4756-9c30-b87195a329c8.gif)
+![earthtalker](https://user-images.githubusercontent.com/101950684/226698658-8f96fff2-c0d0-4756-9c30-b87195a329c8.gif width="200px")
 <h3 align="center">likes doing silly things with their 'puter ...</h3>
 
 <h3 align="left">Connect with me:</h3>
