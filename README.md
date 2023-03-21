@@ -1,5 +1,5 @@
 <h1 align="center">YO DOOD!, I'm Inkbrush</h1>
-<img src="https://imgur.com/a/2NF3OIX">
+<img src="inkbrushnouveau/earthtalker.gif">
 <h3 align="center">likes doing silly things with their 'puter ...</h3>
 
 <h3 align="left">Connect with me:</h3>
