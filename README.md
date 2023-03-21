@@ -1,5 +1,5 @@
 <h1 align="center">YO DOOD!, I'm Inkbrush</h1>
-(https://github.com/inkbrushnouveau/inkbrushnouveau/blob/main/dood.gif)
+![](https://github.com/inkbrushnouveau/inkbrushnouveau/blob/main/dood.gif)
 <h3 align="center">likes doing silly things with their 'puter ...</h3>
 
 <h3 align="left">Connect with me:</h3>
