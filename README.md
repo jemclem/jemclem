@@ -1,10 +1,9 @@
 <h1 align="center"><img src="https://user-images.githubusercontent.com/101950684/226711099-5aedd14b-f25e-4a12-91ea-3287ed250056.gif"/> <br> I'm Inkbrush!</h1>
-<h3 align="center">likes doing silly things with their 'puter ...</h3>
+<p align="center">likes doing silly things with their 'puter ...</p>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
-
 <h3 align="left">im <i>well-adjusted</i> to these platforms:</h3>
 <p align="left"> 
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
@@ -17,4 +16,5 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
+<h3 align="left">Connect with me:</h3>
 <img src="https://user-images.githubusercontent.com/101950684/226710537-6999a415-b0f1-4065-b11a-0407249e1a8a.gif"/>
