@@ -1,6 +1,6 @@
 <h1 align="center">YO DOOD!, I'm Inkbrush</h1>
 
-<img src="https://user-images.githubusercontent.com/101950684/226711099-5aedd14b-f25e-4a12-91ea-3287ed250056.gif"/>
+<center><img src="https://user-images.githubusercontent.com/101950684/226711099-5aedd14b-f25e-4a12-91ea-3287ed250056.gif"/></center>
 
 <h3 align="center">likes doing silly things with their 'puter ...</h3>
 
