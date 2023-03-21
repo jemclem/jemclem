@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://user-images.githubusercontent.com/101950684/226711099-5aedd14b-f25e-4a12-91ea-3287ed250056.gif"/> <br> I'm Inkbrush!</h1>
-<h2 align="center">likes doing silly things with their 'puter ...</h2>
+<h3 align="center">likes doing silly things with their 'puter ...</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
