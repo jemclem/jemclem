@@ -2,7 +2,7 @@
 <br> 
 I'm Inkbrush! 
 </h1>
-<p>･ ｡ﾟ★: *.✦ .* :★. lover of 'puters and other silly things ... (¬‿¬) ･ ｡ﾟ★: *.✦ .* :★.</p>
+<h2 align="center">･ ｡ﾟ★: *.✦ .* :★. lover of 'puters and other silly things ... (¬‿¬) ･ ｡ﾟ★: *.✦ .* :★.</h2>
 
 
 <h2 align="center"> ☆彡 Plenty o' experience here!</h2>
