@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Inkbrush</h1>
+<h1 align="center">YO! 👋, I'm Inkbrush</h1>
 <h3 align="center">likes doing silly things with their 'puter ...</h3>
 
 <h3 align="left">Connect with me:</h3>
