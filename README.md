@@ -1,4 +1,5 @@
 <h1 align="center">YO DOOD!, I'm Inkbrush</h1>
+<img src="https://user-images.githubusercontent.com/101950684/226710537-6999a415-b0f1-4065-b11a-0407249e1a8a.gif" width="40"/>
 <h3 align="center">likes doing silly things with their 'puter ...</h3>
 
 <h3 align="left">Connect with me:</h3>
