@@ -5,7 +5,7 @@ I'm Inkbrush!
 <h2 align="center">･ ｡ﾟ★: *.✦ .* :★. lover of 'puters and other silly things ... (¬‿¬) ･ ｡ﾟ★: *.✦ .* :★.</h2>
 
 
-<h2 align="center"> ☆彡 Plenty o' experience here!</h2>
+<h2 align="center"> ☆彡 A bit o' experience here!</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,ae,blender,html,pr,py,js"/>
