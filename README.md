@@ -5,14 +5,14 @@ I'm jemclem!
 <h2 align="center">･ ｡ﾟ★: *.✦ .* :★. lover of 'puters and other silly things ... (¬‿¬) ･ ｡ﾟ★: *.✦ .* :★.</h2>
 
 
-<h2 align="center"> ☆彡 A bit o' experience here!</h2>
+<h2 align="center"> ☆彡 Novice-tier/h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,ae,blender,html,pr,py,js"/>
   </a>
 </p>
 
-<h2 align="center"> 🕮 Currently learning ... </h2>
+<h2 align="center"> 🕮 Learning backlog...</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bootstrap,cs,unity,xd,docker"/>
